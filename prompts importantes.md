@@ -1,6 +1,8 @@
 necesito
 necesito configurar en un "freshservice el area de mesa de servicio" con una serie de "form" espcificas 
 para un cliente en el area educativa.
+
+
 Copilot said: ¡Perfecto! Para ayudarte a configurar el área
 ¡Perfecto! Para ayudarte a configurar el área de Mesa de Servicio en Freshservice y crear formularios (“forms”) específicos para un cliente del sector educativo, necesito aclarar algunos puntos para darte una guía precisa:
 
