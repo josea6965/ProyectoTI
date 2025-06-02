@@ -1,5 +1,5 @@
 cuenta pasada al plan gratis 
-posiblemente sera implementada para el diario la calle
+posiblemente sera implementada para el diario la calle.
 
 Abrir la cuenta de email para implementar una demo
 
